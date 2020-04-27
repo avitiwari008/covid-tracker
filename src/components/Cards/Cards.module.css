@@ -1,20 +1,37 @@
 .container{
     margin:50px 0;
+    
+
+}
+.typography {
+    
+
+    font-Family: 'Comic Sans MS', 'cursive', 'sans-serif',
+
+}
+.MuiTypography-body1{
+    font-family:"Comic Sans MS", "cursive", sans-serif;
+
 }
 
 .card{
     margin:0 2% !important;
+    font-family:"Comic Sans MS", "cursive", sans-serif !important;
+    
 }
 
 .infected{
     border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+    background-color: #d2b4b4 !important;
 }
 
 .recovered{
     border-bottom: 10px solid rgba(0,255,0,0.5);
+    background-color: #99da99 !important;
 }
 .deaths{
     border-bottom: 10px solid rgba(255,0,0,0.5);
+    background-color: #cc3453d1 !important;
 }
 
 
